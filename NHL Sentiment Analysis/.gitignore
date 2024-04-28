@@ -1,0 +1,4 @@
+*config.json
+*.venv
+*sentiments.csv
+*__pycache__/
